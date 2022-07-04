@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toshitaka-hamamura
-- 👀 I’m interested in Clinical Psychology.
-- 🌱 I’m currently learning using Github for research.
+- 👀 I’m interested in clinical research practice in Psychology.
+- 🌱 I’m currently updating materials that may be useful for research on Giuhub.
 - 💞️ I’m looking to collaborate on studies related to problematic use of digital-technology.
 - 📫 How to reach me: toshitaka.hamamura[@]gmail.com
 
